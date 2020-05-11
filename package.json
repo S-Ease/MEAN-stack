@@ -1,7 +1,7 @@
 {
   "name": "mean-examen",
   "version": "0.0.0",
-  "main": "server.js",
+  "main": "src/server/server",
   "scripts": {
     "start": "node src/server/server",
   },
